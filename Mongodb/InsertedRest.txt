@@ -1,0 +1,346 @@
+//Inserted Restaurant
+----
+
+/* 1 */
+{
+    "_id" : ObjectId("5b2cb981be20e2b21fdd71d0"),
+    "Restaurant_Id" : "r1001",
+    "Name" : "HALDIRAMS",
+    "Address" : {
+        "street" : "RajaPeth",
+        "city" : "Desces",
+        "pincode" : 462045.0
+    },
+    "Cuisine" : [ 
+        "Veg", 
+        "Thai", 
+        "FastFood"
+    ],
+    "District" : "Nagpur",
+    "Ratings" : [ 
+        {
+            "Date" : ISODate("2019-03-05T18:30:00.000Z"),
+            "rating" : 9.0,
+            "score" : 10.0
+        }, 
+        {
+            "Date" : ISODate("2014-08-11T00:00:00.000Z"),
+            "rating" : "A",
+            "score" : 10.0
+        }, 
+        {
+            "Date" : ISODate("2019-03-05T18:30:00.000Z"),
+            "rating" : 9.0,
+            "score" : 10.0
+        }
+    ]
+}
+
+/* 2 */
+{
+    "_id" : ObjectId("5b2cba56be20e2b21fdd71d3"),
+    "Restaurant_Id" : "r4562",
+    "Name" : "Will Restaurant",
+    "Address" : {
+        "street" : "Jk road",
+        "city" : "Bhopal",
+        "pincode" : 462035.0
+    },
+    "Cuisine" : [ 
+        "Veg", 
+        "FastFood"
+    ],
+    "District" : "Bhopal",
+    "Ratings" : [ 
+        {
+            "Date" : ISODate("2019-11-05T18:30:00.000Z"),
+            "rating" : 6.0,
+            "score" : 6.0
+        }, 
+        {
+            "Date" : ISODate("2018-12-05T18:30:00.000Z"),
+            "rating" : 5.0,
+            "score" : 5.0
+        }, 
+        {
+            "Date" : ISODate("2019-02-05T18:30:00.000Z"),
+            "rating" : 3.0,
+            "score" : 3.0
+        }
+    ]
+}
+
+/* 3 */
+{
+    "_id" : ObjectId("5b2cbab2be20e2b21fdd71d4"),
+    "Restaurant_Id" : "r2001",
+    "Name" : "Bajrang Sweets",
+    "Address" : {
+        "street" : "Indrapuri",
+        "city" : "Besces",
+        "pincode" : 462021.0
+    },
+    "Cuisine" : [ 
+        "Vendors", 
+        "FastFood"
+    ],
+    "District" : "Bhopal",
+    "Ratings" : [ 
+        {
+            "Date" : ISODate("2018-12-04T18:30:00.000Z"),
+            "rating" : 6.0,
+            "score" : 6.0
+        }, 
+        {
+            "Date" : ISODate("2019-02-02T18:30:00.000Z"),
+            "rating" : 5.0,
+            "score" : 5.0
+        }, 
+        {
+            "Date" : ISODate("2019-04-05T18:30:00.000Z"),
+            "rating" : 3.0,
+            "score" : 3.0
+        }
+    ]
+}
+
+/* 4 */
+{
+    "_id" : ObjectId("5b2cbbafbe20e2b21fdd71d5"),
+    "Restaurant_Id" : "r3052",
+    "Name" : "Sagar Gaire",
+    "Address" : {
+        "street" : "Ayodhya Bypass",
+        "city" : "Bhopal",
+        "pincode" : 462035.0
+    },
+    "Cuisine" : [ 
+        "Veg", 
+        "FastFood", 
+        "Italian"
+    ],
+    "District" : "Bhopal",
+    "Ratings" : [ 
+        {
+            "Date" : ISODate("2014-08-11T00:00:00.000Z"),
+            "rating" : "A",
+            "score" : 9.0
+        }, 
+        {
+            "Date" : ISODate("2018-03-05T18:30:00.000Z"),
+            "rating" : 9.0,
+            "score" : 8.0
+        }, 
+        {
+            "Date" : ISODate("2018-04-05T18:30:00.000Z"),
+            "rating" : 8.0,
+            "score" : 8.0
+        }
+    ]
+}
+
+/* 5 */
+{
+    "_id" : ObjectId("5b2cbc87be20e2b21fdd71d6"),
+    "Restaurant_Id" : "r4001",
+    "Name" : "Milan",
+    "Address" : {
+        "street" : "MP nagar",
+        "city" : "Bronx",
+        "pincode" : 462564.0
+    },
+    "Cuisine" : [ 
+        "Vendor", 
+        "FastFood", 
+        "Chinese"
+    ],
+    "District" : "Bhopal",
+    "Ratings" : [ 
+        {
+            "Date" : ISODate("2018-11-30T18:30:00.000Z"),
+            "rating" : "A",
+            "score" : 9.0
+        }, 
+        {
+            "Date" : ISODate("2018-12-02T18:30:00.000Z"),
+            "rating" : 8.0,
+            "score" : 7.0
+        }, 
+        {
+            "Date" : ISODate("2019-02-03T18:30:00.000Z"),
+            "rating" : "B",
+            "score" : 6.0
+        }
+    ]
+}
+
+/* 6 */
+{
+    "_id" : ObjectId("5b2cbcf9be20e2b21fdd71d7"),
+    "Restaurant_Id" : "r2564",
+    "Name" : "Wildilis",
+    "Address" : {
+        "street" : "Ramapuram",
+        "city" : "Chennai",
+        "pincode" : 464560.0
+    },
+    "Cuisine" : [ 
+        "Veg", 
+        "Thai"
+    ],
+    "District" : "Chennai",
+    "Ratings" : [ 
+        {
+            "Date" : ISODate("2014-08-11T00:00:00.000Z"),
+            "rating" : "A",
+            "score" : 10.0
+        }, 
+        {
+            "Date" : ISODate("2018-12-05T18:30:00.000Z"),
+            "rating" : 5.0,
+            "score" : 5.0
+        }, 
+        {
+            "Date" : ISODate("2019-02-05T18:30:00.000Z"),
+            "rating" : "E",
+            "score" : 6.0
+        }
+    ]
+}
+
+/* 7 */
+{
+    "_id" : ObjectId("5b2cbd5ebe20e2b21fdd71d8"),
+    "Restaurant_Id" : "r5664",
+    "Name" : "Star Biryani",
+    "Address" : {
+        "street" : "Ramapuram",
+        "city" : "Chennai",
+        "pincode" : 464560.0
+    },
+    "Cuisine" : [ 
+        "FastFood", 
+        "Non-Veg"
+    ],
+    "District" : "Chennai",
+    "Ratings" : [ 
+        {
+            "Date" : ISODate("2019-01-05T18:30:00.000Z"),
+            "rating" : 6.0,
+            "score" : 7.0
+        }, 
+        {
+            "Date" : ISODate("2019-04-04T18:30:00.000Z"),
+            "rating" : 6.0,
+            "score" : 5.0
+        }, 
+        {
+            "Date" : ISODate("2019-01-04T18:30:00.000Z"),
+            "rating" : 6.0,
+            "score" : 7.0
+        }
+    ]
+}
+
+/* 8 */
+{
+    "_id" : ObjectId("5b2cbddfbe20e2b21fdd71d9"),
+    "Restaurant_Id" : "r2324",
+    "Name" : "Royal Register",
+    "Address" : {
+        "street" : "Venkatesh Nagar",
+        "city" : "Chennai",
+        "pincode" : 464556.0
+    },
+    "Cuisine" : [ 
+        "Veg", 
+        "Non-Veg", 
+        "FastFood"
+    ],
+    "District" : "Chennai",
+    "Ratings" : [ 
+        {
+            "Date" : ISODate("2018-03-05T18:30:00.000Z"),
+            "rating" : 6.0,
+            "score" : 6.0
+        }, 
+        {
+            "Date" : ISODate("2018-06-05T18:30:00.000Z"),
+            "rating" : 5.0,
+            "score" : 5.0
+        }, 
+        {
+            "Date" : ISODate("2018-09-05T18:30:00.000Z"),
+            "rating" : 8.0,
+            "score" : 6.0
+        }
+    ]
+}
+
+/* 9 */
+{
+    "_id" : ObjectId("5b2cbed0be20e2b21fdd71da"),
+    "Restaurant_Id" : "u4569",
+    "Name" : "GaneshReg",
+    "Address" : {
+        "street" : "Kolar Road",
+        "city" : "Mumbai",
+        "pincode" : 445690.0
+    },
+    "Cuisine" : [ 
+        "Veg", 
+        "FastFood"
+    ],
+    "District" : "Mumbai",
+    "Ratings" : [ 
+        {
+            "Date" : ISODate("2019-10-31T18:30:00.000Z"),
+            "rating" : 9.0,
+            "score" : 10.0
+        }, 
+        {
+            "Date" : ISODate("2018-12-01T18:30:00.000Z"),
+            "rating" : 9.0,
+            "score" : 10.0
+        }, 
+        {
+            "Date" : ISODate("2019-02-05T18:30:00.000Z"),
+            "rating" : 9.0,
+            "score" : 10.0
+        }
+    ]
+}
+
+/* 10 */
+{
+    "_id" : ObjectId("5b2cbf7abe20e2b21fdd71db"),
+    "Restaurant_Id" : "r9564",
+    "Name" : "Will CHINESE",
+    "Address" : {
+        "street" : "Borivalli",
+        "city" : "Mumbai",
+        "pincode" : 464630.0
+    },
+    "Cuisine" : [ 
+        "FastFood", 
+        "Chinese"
+    ],
+    "District" : "Mumbai",
+    "Ratings" : [ 
+        {
+            "Date" : ISODate("2014-08-11T00:00:00.000Z"),
+            "rating" : "A",
+            "score" : 10.0
+        }, 
+        {
+            "Date" : ISODate("2020-06-30T18:30:00.000Z"),
+            "rating" : 5.0,
+            "score" : 5.0
+        }, 
+        {
+            "Date" : ISODate("2018-10-05T18:30:00.000Z"),
+            "rating" : 6.0,
+            "score" : 6.0
+        }
+    ]
+}
